@@ -1,2 +1,2 @@
 direct.easyops.ir:enable-pfs:uplod.ir,
-nl3.pocoir.fun:enable-pfs:uplod.ir,
+nl3.pocoir.fun:enable-pfs:uplod.ir
